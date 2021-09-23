@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Control
+comment1.params=pSaalnr\ pAnzahlReihen\ pAnzahlpl\u00E4tzeProReihe
+comment1.target=Control(int,\ int,\ int)
+numComments=2

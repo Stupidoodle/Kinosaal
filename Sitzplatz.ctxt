@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Sitzplatz
+comment1.params=pPlatznr\ pReihe\ pIstEinzelplatz\ pIstLogenplatz\ pIstRollstuhlplatz\ pPreis
+comment1.target=Sitzplatz(int,\ int,\ boolean,\ boolean,\ boolean,\ double)
+comment10.params=pPreis
+comment10.target=void\ setPreis(double)
+comment2.params=
+comment2.target=int\ getPlatznr()
+comment3.params=
+comment3.target=int\ getReihe()
+comment4.params=
+comment4.target=boolean\ getBelegt()
+comment5.params=
+comment5.target=boolean\ getEinzelplatz()
+comment6.params=
+comment6.target=boolean\ getLogenplatz()
+comment7.params=
+comment7.target=boolean\ getRollstuhlplatz()
+comment8.params=
+comment8.target=double\ getPreis()
+comment9.params=pBelegung
+comment9.target=void\ setBelegt(boolean)
+numComments=11
