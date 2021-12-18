@@ -49,7 +49,7 @@ public class Control extends JPanel{
 
     public int[] sucheFreienPlatz(boolean pLoge, boolean pEinzel, boolean pRollstuhl){
         return kinosaal.sucheFreienPlatz(pLoge, pEinzel, pRollstuhl);
-    
+    }
 
     public void saalLeeren(){
         kinosaal.saalLeeren();
